@@ -16,7 +16,7 @@ It is important to show your work.
 - [Atlas](https://github.com/must-show-your-work/atlas)
     - A tool for 'mathematical cartography'. Atlas analyzes theorems and supports annotating them with metadata to aid in
     text formalization. It also has some nice views of the graph it generates via kuzu and some vibecoded javascript.
-- [Figure](https://github.com/must-show-your-work/figure)
+- [Figures](https://github.com/must-show-your-work/figures)
     - A tool for rendering figures for proofs (and probably other similar things)
 
 # Projects by other people
